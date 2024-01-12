@@ -7,7 +7,7 @@ In the attached notebook, we will follow three approaches to implement Retrieval
     - Basic Indexing of Documents using LlamaIndex.
     - Querying from the Created Index.
   
-![alt text](https://github.com/faizankhan29/Retrieval-Augemented-Generation-For-Resume-and-Work-Portfolio-Analysis/blob/main/images/basic_1.png?raw=true)
+![alt text](https://github.com/faizankhan29/RAG-For-Resume-and-Work-Portfolio-Analysis/blob/main/images/basic_1.png?raw=true)
 
 
 Source:https://learn.deeplearning.ai/building-evaluating-advanced-rag/lesson/2/advanced-rag-pipeline
@@ -18,11 +18,11 @@ Source:https://learn.deeplearning.ai/building-evaluating-advanced-rag/lesson/2/a
     - Creating Sentence Window Based Index (Breaks down documents into smaller chunks like sentences).
     - Querying most relevant chunks along with surrounding context.
 
-![alt text](https://github.com/faizankhan29/Retrieval-Augemented-Generation-For-Resume-and-Work-Portfolio-Analysis/blob/main/images/sentence_window_1.png?raw=true)
+![alt text](https://github.com/faizankhan29/RAG-For-Resume-and-Work-Portfolio-Analysis/blob/main/images/sentence_window_1.png?raw=true)
 
 Source: https://learn.deeplearning.ai/building-evaluating-advanced-rag/lesson/2/advanced-rag-pipeline
 
-![alt text](https://github.com/faizankhan29/Retrieval-Augemented-Generation-For-Resume-and-Work-Portfolio-Analysis/blob/main/images/sentence_window_2.png?raw=true)
+![alt text](https://github.com/faizankhan29/RAG-For-Resume-and-Work-Portfolio-Analysis/blob/main/images/sentence_window_2.png?raw=true)
 
 
 Source: https://learn.deeplearning.ai/building-evaluating-advanced-rag/lesson/2/advanced-rag-pipeline
@@ -31,6 +31,6 @@ Source: https://learn.deeplearning.ai/building-evaluating-advanced-rag/lesson/2/
     - Creating Automerging Retrieval Based Index.
     - Querying using auto-merging retrieval which merges information from multiple sources or segments of text to create a more comprehensive and contextually relevant response to a query.
   
-![alt text](https://github.com/faizankhan29/Retrieval-Augemented-Generation-For-Resume-and-Work-Portfolio-Analysis/blob/main/images/am_retrieval.png?raw=true)
+![alt text](https://github.com/faizankhan29/RAG-For-Resume-and-Work-Portfolio-Analysis/blob/main/images/am_retrieval.png?raw=true)
 
 Source: https://learn.deeplearning.ai/building-evaluating-advanced-rag/lesson/2/advanced-rag-pipeline
